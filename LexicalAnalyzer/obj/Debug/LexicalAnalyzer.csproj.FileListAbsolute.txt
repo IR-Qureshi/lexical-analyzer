@@ -1,0 +1,9 @@
+c:\users\ansari\documents\visual studio 2013\Projects\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe.config
+c:\users\ansari\documents\visual studio 2013\Projects\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+c:\users\ansari\documents\visual studio 2013\Projects\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+c:\users\ansari\documents\visual studio 2013\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.Form1.resources
+c:\users\ansari\documents\visual studio 2013\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.Properties.Resources.resources
+c:\users\ansari\documents\visual studio 2013\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csproj.GenerateResource.Cache
+c:\users\ansari\documents\visual studio 2013\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.exe
+c:\users\ansari\documents\visual studio 2013\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.pdb
+c:\users\ansari\documents\visual studio 2013\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csprojResolveAssemblyReference.cache
