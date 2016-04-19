@@ -61,7 +61,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(404, 165);
+            this.label2.Location = new System.Drawing.Point(382, 165);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(57, 13);
             this.label2.TabIndex = 3;
@@ -81,7 +81,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(537, 165);
+            this.label3.Location = new System.Drawing.Point(525, 165);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(44, 13);
             this.label3.TabIndex = 8;
@@ -90,7 +90,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(666, 165);
+            this.label4.Location = new System.Drawing.Point(670, 165);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(29, 13);
             this.label4.TabIndex = 9;
@@ -101,7 +101,7 @@
             this.listBox1.FormattingEnabled = true;
             this.listBox1.Location = new System.Drawing.Point(385, 28);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(328, 121);
+            this.listBox1.Size = new System.Drawing.Size(354, 121);
             this.listBox1.TabIndex = 10;
             // 
             // listBox2
@@ -109,7 +109,7 @@
             this.listBox2.FormattingEnabled = true;
             this.listBox2.Location = new System.Drawing.Point(385, 181);
             this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(328, 121);
+            this.listBox2.Size = new System.Drawing.Size(354, 121);
             this.listBox2.TabIndex = 11;
             // 
             // Form1
@@ -128,6 +128,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
